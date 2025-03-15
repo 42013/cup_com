@@ -1,0 +1,2 @@
+orin_code 为源码
+my_exe为pyinsatller编译软件可直接应用
